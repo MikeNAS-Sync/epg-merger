@@ -1,0 +1,22 @@
+output_dir: output
+
+sources:
+  finland:
+    output: Open-EPG_Finland.xml
+    urls:
+      - https://www.open-epg.com/files/finland1.xml
+      - https://www.open-epg.com/files/finland2.xml
+      - https://www.open-epg.com/files/finland3.xml
+      - https://www.open-epg.com/files/finland4.xml
+
+  usa:
+    output: Open-EPG_USA.xml
+    urls:
+      - https://www.open-epg.com/files/unitedstates3.xml
+      - https://www.open-epg.com/files/unitedstates4.xml
+      - https://www.open-epg.com/files/unitedstates6.xml
+      - https://www.open-epg.com/files/unitedstates7.xml
+      - https://www.open-epg.com/files/unitedstates8.xml
+      - https://www.open-epg.com/files/unitedstates9.xml
+      - https://www.open-epg.com/files/unitedstates10.xml
+      - https://www.open-epg.com/files/unitedstates11.xml
