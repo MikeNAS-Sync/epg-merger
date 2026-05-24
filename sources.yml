@@ -25,3 +25,14 @@ sources:
     output: Open-EPG_UK.xml
     urls:
       - https://www.open-epg.com/files/unitedkingdom.xml
+      
+  estonia:
+    output: Open-EPG_Estonia.xml
+    urls:
+      - https://www.open-epg.com/files/estonia1.xml
+
+  portugal:
+    output: Open-EPG_Portugal.xml
+    urls:
+      - https://www.open-epg.com/files/portugal1.xml
+      - https://www.open-epg.com/files/portugal2.xml
