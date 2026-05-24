@@ -36,3 +36,8 @@ sources:
     urls:
       - https://www.open-epg.com/files/portugal1.xml
       - https://www.open-epg.com/files/portugal2.xml
+
+  canada:
+    output: Open-EPG_Canada.xml
+    urls:
+      - https://www.open-epg.com/files/canada.xml
