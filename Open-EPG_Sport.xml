@@ -15162,58 +15162,6 @@
   <channel id="premier sports rugby.uk">
     <display-name>premier sports rugby.uk</display-name>
   </channel>
-  <programme start="20261115233000 +0000" stop="20261116013000 +0000" channel="laliga tv.uk">
-    <title>LALIGA</title>
-    <desc>Elche v Real Betis</desc>
-  </programme>
-  <programme start="20261116013000 +0000" stop="20261116033000 +0000" channel="laliga tv.uk">
-    <title>LALIGA</title>
-    <desc>Atletico Madrid v Barcelona</desc>
-  </programme>
-  <programme start="20261116033000 +0000" stop="20261116053000 +0000" channel="laliga tv.uk">
-    <title>LALIGA</title>
-    <desc>Real Sociedad v Rayo Vallecano</desc>
-  </programme>
-  <programme start="20261116053000 +0000" stop="20261116073000 +0000" channel="laliga tv.uk">
-    <title>LALIGA</title>
-    <desc>Villarreal v Getafe</desc>
-  </programme>
-  <programme start="20261116073000 +0000" stop="20261116080000 +0000" channel="laliga tv.uk">
-    <title>LALIGA Specials</title>
-    <desc>LALIGA FREE TOUR 02</desc>
-  </programme>
-  <programme start="20261116080000 +0000" stop="20261116100000 +0000" channel="laliga tv.uk">
-    <title>LALIGA</title>
-    <desc>Atletico Madrid v Barcelona</desc>
-  </programme>
-  <programme start="20261116100000 +0000" stop="20261116120000 +0000" channel="laliga tv.uk">
-    <title>LALIGA</title>
-    <desc>Sevilla v Alaves</desc>
-  </programme>
-  <programme start="20261116140000 +0000" stop="20261116143000 +0000" channel="laliga tv.uk">
-    <title>LALIGA Highlights</title>
-    <desc>Round 12</desc>
-  </programme>
-  <programme start="20261116143000 +0000" stop="20261116163000 +0000" channel="laliga tv.uk">
-    <title>LALIGA</title>
-    <desc>Osasuna v Athletic Club</desc>
-  </programme>
-  <programme start="20261116163000 +0000" stop="20261116183000 +0000" channel="laliga tv.uk">
-    <title>LALIGA</title>
-    <desc>Real Sociedad v Rayo Vallecano</desc>
-  </programme>
-  <programme start="20261116183000 +0000" stop="20261116203000 +0000" channel="laliga tv.uk">
-    <title>LALIGA</title>
-    <desc>Malaga v Racing</desc>
-  </programme>
-  <programme start="20261116203000 +0000" stop="20261116210000 +0000" channel="laliga tv.uk">
-    <title>LALIGA Rookies</title>
-    <desc>Episode 2</desc>
-  </programme>
-  <programme start="20261116210000 +0000" stop="20261116110000 +0000" channel="laliga tv.uk">
-    <title>LALIGA</title>
-    <desc>Atletico Madrid v Barcelona</desc>
-  </programme>
   <programme start="20261117010000 +0000" stop="20261117020000 +0000" channel="laliga tv.uk">
     <title>LALIGA</title>
     <desc>Villarreal v Getafe</desc>
@@ -15274,89 +15222,69 @@
     <title>LALIGA</title>
     <desc>Sevilla v Alaves</desc>
   </programme>
-  <programme start="20261116000000 +0000" stop="20261116030000 +0000" channel="premier sports 1.uk">
-    <title>NHL</title>
-    <desc>Calgary at Anaheim</desc>
+  <programme start="20261118040000 +0000" stop="20261118043000 +0000" channel="laliga tv.uk">
+    <title>LALIGA Rookies</title>
+    <desc>Episode 3</desc>
   </programme>
-  <programme start="20261116030000 +0000" stop="20261116033000 +0000" channel="premier sports 1.uk">
-    <title>NHL: This is Hockey</title>
-    <desc>This is Hockey</desc>
+  <programme start="20261118043000 +0000" stop="20261118050000 +0000" channel="laliga tv.uk">
+    <title>LALIGA Highlights</title>
+    <desc>Round 12</desc>
   </programme>
-  <programme start="20261116033000 +0000" stop="20261116040000 +0000" channel="premier sports 1.uk">
-    <title>NHL: This is Hockey</title>
-    <desc>This is Hockey</desc>
+  <programme start="20261118050000 +0000" stop="20261118070000 +0000" channel="laliga tv.uk">
+    <title>LALIGA</title>
+    <desc>Elche v Real Betis</desc>
   </programme>
-  <programme start="20261116040000 +0000" stop="20261116050000 +0000" channel="premier sports 1.uk">
-    <title>NASCAR Highlights</title>
-    <desc>Homestead-Miami Speedway</desc>
+  <programme start="20261118070000 +0000" stop="20261118090000 +0000" channel="laliga tv.uk">
+    <title>LALIGA</title>
+    <desc>Atletico Madrid v Barcelona</desc>
   </programme>
-  <programme start="20261116050000 +0000" stop="20261116053000 +0000" channel="premier sports 1.uk">
-    <title>Sporting Countdowns</title>
-    <desc>Sporting Countdowns</desc>
+  <programme start="20261118090000 +0000" stop="20261118110000 +0000" channel="laliga tv.uk">
+    <title>LALIGA</title>
+    <desc>Real Sociedad v Rayo Vallecano</desc>
   </programme>
-  <programme start="20261116053000 +0000" stop="20261116060000 +0000" channel="premier sports 1.uk">
-    <title>Sporting Countdowns</title>
-    <desc>Sporting Countdowns</desc>
+  <programme start="20261118110000 +0000" stop="20261118130000 +0000" channel="laliga tv.uk">
+    <title>LALIGA</title>
+    <desc>Celta Vigo v Levante</desc>
   </programme>
-  <programme start="20261116060000 +0000" stop="20261116080000 +0000" channel="premier sports 1.uk">
-    <title>NHL</title>
-    <desc>Calgary at Anaheim</desc>
+  <programme start="20261118130000 +0000" stop="20261118150000 +0000" channel="laliga tv.uk">
+    <title>LALIGA</title>
+    <desc>Espanyol v Deportivo</desc>
   </programme>
-  <programme start="20261116080000 +0000" stop="20261116100000 +0000" channel="premier sports 1.uk">
-    <title>RLWC26</title>
-    <desc>Australia v New Zealand</desc>
+  <programme start="20261118170000 +0000" stop="20261118173000 +0000" channel="laliga tv.uk">
+    <title>LALIGA Highlights</title>
+    <desc>Round 12</desc>
   </programme>
-  <programme start="20261116100000 +0000" stop="20261116103000 +0000" channel="premier sports 1.uk">
-    <title>Sporting Greats</title>
-    <desc>Sporting Greats</desc>
+  <programme start="20261118173000 +0000" stop="20261118180000 +0000" channel="laliga tv.uk">
+    <title>LALIGA Rookies</title>
+    <desc>Episode 3</desc>
   </programme>
-  <programme start="20261116103000 +0000" stop="20261116123000 +0000" channel="premier sports 1.uk">
-    <title>Women's RLWC26</title>
-    <desc>Australia v New Zealand</desc>
+  <programme start="20261118180000 +0000" stop="20261118200000 +0000" channel="laliga tv.uk">
+    <title>LALIGA</title>
+    <desc>Atletico Madrid v Barcelona</desc>
   </programme>
-  <programme start="20261116123000 +0000" stop="20261116130000 +0000" channel="premier sports 1.uk">
-    <title>Sporting Greats</title>
-    <desc>Sporting Greats</desc>
+  <programme start="20261118200000 +0000" stop="20261118220000 +0000" channel="laliga tv.uk">
+    <title>LALIGA</title>
+    <desc>Osasuna v Athletic Club</desc>
   </programme>
-  <programme start="20261116130000 +0000" stop="20261116133000 +0000" channel="premier sports 1.uk">
-    <title>NHL on the Fly</title>
-    <desc>NHL on the Fly</desc>
+  <programme start="20261118220000 +0000" stop="20261118120000 +0000" channel="laliga tv.uk">
+    <title>LALIGA</title>
+    <desc>Real Sociedad v Rayo Vallecano</desc>
   </programme>
-  <programme start="20261116133000 +0000" stop="20261116140000 +0000" channel="premier sports 1.uk">
-    <title>NHL: This is Hockey</title>
-    <desc>This is Hockey</desc>
+  <programme start="20261119020000 +0000" stop="20261119040000 +0000" channel="laliga tv.uk">
+    <title>LALIGA</title>
+    <desc>Elche v Real Betis</desc>
   </programme>
-  <programme start="20261116140000 +0000" stop="20261116150000 +0000" channel="premier sports 1.uk">
-    <title>NHL Specials</title>
-    <desc>2026 Stanley Cup film</desc>
+  <programme start="20261119040000 +0000" stop="20261119043000 +0000" channel="laliga tv.uk">
+    <title>LALIGA Rookies</title>
+    <desc>Episode 3</desc>
   </programme>
-  <programme start="20261116150000 +0000" stop="20261116170000 +0000" channel="premier sports 1.uk">
-    <title>Wheelchair RLWC26</title>
-    <desc>England v France</desc>
+  <programme start="20261119043000 +0000" stop="20261119063000 +0000" channel="laliga tv.uk">
+    <title>LALIGA</title>
+    <desc>Atletico Madrid v Barcelona</desc>
   </programme>
-  <programme start="20261116170000 +0000" stop="20261116173000 +0000" channel="premier sports 1.uk">
-    <title>Sporting Countdowns</title>
-    <desc>Sporting Countdowns</desc>
-  </programme>
-  <programme start="20261116173000 +0000" stop="20261116193000 +0000" channel="premier sports 1.uk">
-    <title>RLWC26</title>
-    <desc>Australia v New Zealand</desc>
-  </programme>
-  <programme start="20261116193000 +0000" stop="20261116200000 +0000" channel="premier sports 1.uk">
-    <title>Sporting Countdowns</title>
-    <desc>Sporting Countdowns</desc>
-  </programme>
-  <programme start="20261116200000 +0000" stop="20261116220000 +0000" channel="premier sports 1.uk">
-    <title>Women's RLWC26</title>
-    <desc>Australia v New Zealand</desc>
-  </programme>
-  <programme start="20261116220000 +0000" stop="20261116223000 +0000" channel="premier sports 1.uk">
-    <title>Sporting Countdowns</title>
-    <desc>Sporting Countdowns</desc>
-  </programme>
-  <programme start="20261116223000 +0000" stop="20261116123000 +0000" channel="premier sports 1.uk">
-    <title>NHL</title>
-    <desc>Calgary at Anaheim</desc>
+  <programme start="20261119083000 +0000" stop="20261119103000 +0000" channel="laliga tv.uk">
+    <title>LALIGA</title>
+    <desc>Espanyol v Deportivo</desc>
   </programme>
   <programme start="20261117003000 +0000" stop="20261117013000 +0000" channel="premier sports 1.uk">
     <title>NHL Specials</title>
@@ -15438,81 +15366,105 @@
     <title>Sporting Greats</title>
     <desc>Sporting Greats</desc>
   </programme>
-  <programme start="20261115233000 +0000" stop="20261116023000 +0000" channel="premier sports 2.uk">
-    <title>NHL</title>
-    <desc>Edmonton at Philadelphia</desc>
+  <programme start="20261118030000 +0000" stop="20261118050000 +0000" channel="premier sports 1.uk">
+    <title>LALIGA</title>
+    <desc>Atletico Madrid v Barcelona</desc>
   </programme>
-  <programme start="20261116023000 +0000" stop="20261116030000 +0000" channel="premier sports 2.uk">
-    <title>Temples of Sport</title>
-    <desc>Melbourne Cricket Ground</desc>
-  </programme>
-  <programme start="20261116030000 +0000" stop="20261116040000 +0000" channel="premier sports 2.uk">
+  <programme start="20261118050000 +0000" stop="20261118060000 +0000" channel="premier sports 1.uk">
     <title>NHL Specials</title>
-    <desc>Top 10 Goalies</desc>
+    <desc>Top 20 Defensemen</desc>
   </programme>
-  <programme start="20261116040000 +0000" stop="20261116043000 +0000" channel="premier sports 2.uk">
-    <title>Football's Greatest</title>
-    <desc>Football's Greatest</desc>
+  <programme start="20261118060000 +0000" stop="20261118080000 +0000" channel="premier sports 1.uk">
+    <title>RLWC26</title>
+    <desc>Australia v New Zealand</desc>
   </programme>
-  <programme start="20261116043000 +0000" stop="20261116050000 +0000" channel="premier sports 2.uk">
-    <title>Football's Greatest</title>
-    <desc>Football's Greatest</desc>
+  <programme start="20261118080000 +0000" stop="20261118083000 +0000" channel="premier sports 1.uk">
+    <title>Sporting Countdowns</title>
+    <desc>Sporting Countdowns</desc>
   </programme>
-  <programme start="20261116050000 +0000" stop="20261116070000 +0000" channel="premier sports 2.uk">
-    <title>United Rugby Championship</title>
-    <desc>Bulls v Scarlets</desc>
+  <programme start="20261118083000 +0000" stop="20261118090000 +0000" channel="premier sports 1.uk">
+    <title>Sporting Countdowns</title>
+    <desc>Sporting Countdowns</desc>
   </programme>
-  <programme start="20261116070000 +0000" stop="20261116090000 +0000" channel="premier sports 2.uk">
+  <programme start="20261118090000 +0000" stop="20261118110000 +0000" channel="premier sports 1.uk">
+    <title>LALIGA</title>
+    <desc>Villarreal v Getafe</desc>
+  </programme>
+  <programme start="20261118110000 +0000" stop="20261118130000 +0000" channel="premier sports 1.uk">
     <title>NHL</title>
-    <desc>Edmonton at Philadelphia</desc>
+    <desc>Washington at Tampa Bay</desc>
   </programme>
-  <programme start="20261116090000 +0000" stop="20261116093000 +0000" channel="premier sports 2.uk">
-    <title>Temples of Sport</title>
-    <desc>Alpe D'Huez</desc>
+  <programme start="20261118130000 +0000" stop="20261118140000 +0000" channel="premier sports 1.uk">
+    <title>NHL on the Fly</title>
+    <desc>NHL on the Fly</desc>
   </programme>
-  <programme start="20261116093000 +0000" stop="20261116100000 +0000" channel="premier sports 2.uk">
-    <title>Temples of Sport</title>
-    <desc>St. Andrews Golf Course</desc>
+  <programme start="20261118140000 +0000" stop="20261118160000 +0000" channel="premier sports 1.uk">
+    <title>RLWC26</title>
+    <desc>Australia v New Zealand</desc>
   </programme>
-  <programme start="20261116100000 +0000" stop="20261116101500 +0000" channel="premier sports 2.uk">
-    <title>Africa Eco Race</title>
-    <desc>Africa Eco Race</desc>
+  <programme start="20261118160000 +0000" stop="20261118163000 +0000" channel="premier sports 1.uk">
+    <title>Sporting Countdowns</title>
+    <desc>Sporting Countdowns</desc>
   </programme>
-  <programme start="20261116101500 +0000" stop="20261116121500 +0000" channel="premier sports 2.uk">
-    <title>Abu Dhabi T10</title>
-    <desc>United Tigers v Yas Lions</desc>
+  <programme start="20261118163000 +0000" stop="20261118183000 +0000" channel="premier sports 1.uk">
+    <title>Women's RLWC26</title>
+    <desc>Australia v New Zealand</desc>
   </programme>
-  <programme start="20261116121500 +0000" stop="20261116144500 +0000" channel="premier sports 2.uk">
-    <title>Abu Dhabi T10</title>
-    <desc>Arabian Aces v United Tigers</desc>
+  <programme start="20261118183000 +0000" stop="20261118190000 +0000" channel="premier sports 1.uk">
+    <title>KOTV Weekly</title>
+    <desc>KOTV Weekly</desc>
   </programme>
-  <programme start="20261116144500 +0000" stop="20261116170000 +0000" channel="premier sports 2.uk">
-    <title>Abu Dhabi T10</title>
-    <desc>Emirates Eagles v Royal Desert</desc>
+  <programme start="20261118190000 +0000" stop="20261118193000 +0000" channel="premier sports 1.uk">
+    <title>Sporting Countdowns</title>
+    <desc>Sporting Countdowns</desc>
   </programme>
-  <programme start="20261116170000 +0000" stop="20261116173000 +0000" channel="premier sports 2.uk">
-    <title>Temples of Sport</title>
-    <desc>Wembley Stadium</desc>
+  <programme start="20261118193000 +0000" stop="20261118213000 +0000" channel="premier sports 1.uk">
+    <title>LALIGA</title>
+    <desc>Villarreal v Getafe</desc>
   </programme>
-  <programme start="20261116173000 +0000" stop="20261116180000 +0000" channel="premier sports 2.uk">
-    <title>Temples of Sport</title>
-    <desc>Anfield</desc>
+  <programme start="20261118213000 +0000" stop="20261118113000 +0000" channel="premier sports 1.uk">
+    <title>NHL</title>
+    <desc>Washington at Tampa Bay</desc>
   </programme>
-  <programme start="20261116180000 +0000" stop="20261116190000 +0000" channel="premier sports 2.uk">
-    <title>NHL Specials</title>
-    <desc>Top 20 Centers</desc>
+  <programme start="20261118233000 +0000" stop="20261119023000 +0000" channel="premier sports 1.uk">
+    <title>NHL</title>
+    <desc>Montreal at New Jersey</desc>
   </programme>
-  <programme start="20261116190000 +0000" stop="20261116210000 +0000" channel="premier sports 2.uk">
-    <title>EIHL</title>
-    <desc>Dundee v Manchester</desc>
-  </programme>
-  <programme start="20261116210000 +0000" stop="20261116213000 +0000" channel="premier sports 2.uk">
+  <programme start="20261119023000 +0000" stop="20261119030000 +0000" channel="premier sports 1.uk">
     <title>NHL: This is Hockey</title>
     <desc>This is Hockey</desc>
   </programme>
-  <programme start="20261116213000 +0000" stop="20261116113000 +0000" channel="premier sports 2.uk">
-    <title>NHL</title>
-    <desc>Edmonton at Philadelphia</desc>
+  <programme start="20261119030000 +0000" stop="20261119040000 +0000" channel="premier sports 1.uk">
+    <title>NHL Specials</title>
+    <desc>Top 20 Centers</desc>
+  </programme>
+  <programme start="20261119040000 +0000" stop="20261119043000 +0000" channel="premier sports 1.uk">
+    <title>Sporting Greats</title>
+    <desc>Sporting Greats</desc>
+  </programme>
+  <programme start="20261119043000 +0000" stop="20261119050000 +0000" channel="premier sports 1.uk">
+    <title>Sporting Greats</title>
+    <desc>Sporting Greats</desc>
+  </programme>
+  <programme start="20261119050000 +0000" stop="20261119060000 +0000" channel="premier sports 1.uk">
+    <title>NHL Specials</title>
+    <desc>Top 20 Wings</desc>
+  </programme>
+  <programme start="20261119060000 +0000" stop="20261119080000 +0000" channel="premier sports 1.uk">
+    <title>Women's RLWC26</title>
+    <desc>Australia v New Zealand</desc>
+  </programme>
+  <programme start="20261119080000 +0000" stop="20261119083000 +0000" channel="premier sports 1.uk">
+    <title>Sporting Countdowns</title>
+    <desc>Sporting Countdowns</desc>
+  </programme>
+  <programme start="20261119083000 +0000" stop="20261119090000 +0000" channel="premier sports 1.uk">
+    <title>Sporting Countdowns</title>
+    <desc>Sporting Countdowns</desc>
+  </programme>
+  <programme start="20261119090000 +0000" stop="20261119110000 +0000" channel="premier sports 1.uk">
+    <title>LALIGA</title>
+    <desc>Osasuna v Athletic Club</desc>
   </programme>
   <programme start="20261116233000 +0000" stop="20261117023000 +0000" channel="premier sports 2.uk">
     <title>NHL</title>
@@ -15594,65 +15546,97 @@
     <title>NHL</title>
     <desc>Dallas at Vegas</desc>
   </programme>
-  <programme start="20261116000000 +0000" stop="20261116014500 +0000" channel="premier sports rugby.uk">
-    <title>United Rugby Championship</title>
-    <desc>Connacht v Leinster</desc>
+  <programme start="20261118050000 +0000" stop="20261118053000 +0000" channel="premier sports 2.uk">
+    <title>NHL: This is Hockey</title>
+    <desc>This is Hockey</desc>
   </programme>
-  <programme start="20261116014500 +0000" stop="20261116033000 +0000" channel="premier sports rugby.uk">
-    <title>United Rugby Championship</title>
-    <desc>Glasgow Warriors v Lions</desc>
+  <programme start="20261118053000 +0000" stop="20261118060000 +0000" channel="premier sports 2.uk">
+    <title>Temples of Sport</title>
+    <desc>Melbourne Cricket Ground</desc>
   </programme>
-  <programme start="20261116033000 +0000" stop="20261116054000 +0000" channel="premier sports rugby.uk">
-    <title>Champions Cup Classic Games</title>
-    <desc>2015 Semi Toulon v Leinster</desc>
+  <programme start="20261118060000 +0000" stop="20261118070000 +0000" channel="premier sports 2.uk">
+    <title>NHL Specials</title>
+    <desc>Top 10 Goalies</desc>
   </programme>
-  <programme start="20261116054000 +0000" stop="20261116061000 +0000" channel="premier sports rugby.uk">
-    <title>Top 14 Highlights</title>
-    <desc>Round 9</desc>
+  <programme start="20261118070000 +0000" stop="20261118090000 +0000" channel="premier sports 2.uk">
+    <title>NHL</title>
+    <desc>Edmonton at Florida</desc>
   </programme>
-  <programme start="20261116061000 +0000" stop="20261116075500 +0000" channel="premier sports rugby.uk">
+  <programme start="20261118090000 +0000" stop="20261118091500 +0000" channel="premier sports 2.uk">
+    <title>Africa Eco Race</title>
+    <desc>Africa Eco Race</desc>
+  </programme>
+  <programme start="20261118091500 +0000" stop="20261118094500 +0000" channel="premier sports 2.uk">
+    <title>Temples of Sport</title>
+    <desc>Ascot Racecourse</desc>
+  </programme>
+  <programme start="20261118094500 +0000" stop="20261118101500 +0000" channel="premier sports 2.uk">
+    <title>Temples of Sport</title>
+    <desc>Melbourne Cricket Ground</desc>
+  </programme>
+  <programme start="20261118101500 +0000" stop="20261118121500 +0000" channel="premier sports 2.uk">
+    <title>Abu Dhabi T10</title>
+    <desc>UAE Bulls v Royal Desert</desc>
+  </programme>
+  <programme start="20261118121500 +0000" stop="20261118144500 +0000" channel="premier sports 2.uk">
+    <title>Abu Dhabi T10</title>
+    <desc>UAE Bulls v United Tigers</desc>
+  </programme>
+  <programme start="20261118144500 +0000" stop="20261118170000 +0000" channel="premier sports 2.uk">
+    <title>Abu Dhabi T10</title>
+    <desc>Emirates Eagles v Yas Lions</desc>
+  </programme>
+  <programme start="20261118170000 +0000" stop="20261118173000 +0000" channel="premier sports 2.uk">
+    <title>Temples of Sport</title>
+    <desc>Alpe D'Huez</desc>
+  </programme>
+  <programme start="20261118173000 +0000" stop="20261118180000 +0000" channel="premier sports 2.uk">
+    <title>Temples of Sport</title>
+    <desc>St. Andrews Golf Course</desc>
+  </programme>
+  <programme start="20261118180000 +0000" stop="20261118200000 +0000" channel="premier sports 2.uk">
+    <title>Abu Dhabi T10</title>
+    <desc>UAE Bulls v United Tigers</desc>
+  </programme>
+  <programme start="20261118200000 +0000" stop="20261118215500 +0000" channel="premier sports 2.uk">
+    <title>EIHL</title>
+    <desc>Glasgow Clan v Fife Flyers</desc>
+  </programme>
+  <programme start="20261118215500 +0000" stop="20261118222500 +0000" channel="premier sports 2.uk">
+    <title>Football's Greatest</title>
+    <desc>Football's Greatest</desc>
+  </programme>
+  <programme start="20261118222500 +0000" stop="20261118123000 +0000" channel="premier sports 2.uk">
+    <title>Brasileiro Serie A</title>
+    <desc>Cruzeiro v Palmeiras</desc>
+  </programme>
+  <programme start="20261119003000 +0000" stop="20261119010000 +0000" channel="premier sports 2.uk">
+    <title>Football's Greatest</title>
+    <desc>Football's Greatest</desc>
+  </programme>
+  <programme start="20261119010000 +0000" stop="20261119020000 +0000" channel="premier sports 2.uk">
+    <title>NHL Specials</title>
+    <desc>Top 10 Goalies</desc>
+  </programme>
+  <programme start="20261119020000 +0000" stop="20261119050000 +0000" channel="premier sports 2.uk">
+    <title>NHL</title>
+    <desc>Colorado at Utah</desc>
+  </programme>
+  <programme start="20261119050000 +0000" stop="20261119070000 +0000" channel="premier sports 2.uk">
     <title>Top 14</title>
     <desc>Toulouse v Clermont Auvergne</desc>
   </programme>
-  <programme start="20261116075500 +0000" stop="20261116094000 +0000" channel="premier sports rugby.uk">
-    <title>Top 14</title>
-    <desc>Toulon v Stade Francais</desc>
+  <programme start="20261119070000 +0000" stop="20261119073000 +0000" channel="premier sports 2.uk">
+    <title>GP Insights </title>
+    <desc>GP Insights</desc>
   </programme>
-  <programme start="20261116094000 +0000" stop="20261116112500 +0000" channel="premier sports rugby.uk">
-    <title>Top 14</title>
-    <desc>Vannes v Bordeaux Begles</desc>
+  <programme start="20261119073000 +0000" stop="20261119080000 +0000" channel="premier sports 2.uk">
+    <title>Temples of Sport</title>
+    <desc>Maracana Stadium</desc>
   </programme>
-  <programme start="20261116112500 +0000" stop="20261116131000 +0000" channel="premier sports rugby.uk">
-    <title>Top 14</title>
-    <desc>La Rochelle v Bayonne</desc>
-  </programme>
-  <programme start="20261116131000 +0000" stop="20261116145000 +0000" channel="premier sports rugby.uk">
-    <title>Champions Cup </title>
-    <desc>Munster v Racing 92</desc>
-  </programme>
-  <programme start="20261116145000 +0000" stop="20261116164000 +0000" channel="premier sports rugby.uk">
-    <title>Champions Cup </title>
-    <desc>Bath v Montpellier</desc>
-  </programme>
-  <programme start="20261116164000 +0000" stop="20261116183000 +0000" channel="premier sports rugby.uk">
-    <title>Champions Cup </title>
-    <desc>Connacht v Saracens</desc>
-  </programme>
-  <programme start="20261116183000 +0000" stop="20261116193000 +0000" channel="premier sports rugby.uk">
-    <title>Champions Cup Highlights</title>
-    <desc>Round 1</desc>
-  </programme>
-  <programme start="20261116193000 +0000" stop="20261116211500 +0000" channel="premier sports rugby.uk">
-    <title>United Rugby Championship</title>
-    <desc>Munster v Sharks</desc>
-  </programme>
-  <programme start="20261116211500 +0000" stop="20261116110000 +0000" channel="premier sports rugby.uk">
-    <title>United Rugby Championship</title>
-    <desc>Connacht v Leinster</desc>
-  </programme>
-  <programme start="20261116230000 +0000" stop="20261117004500 +0000" channel="premier sports rugby.uk">
-    <title>United Rugby Championship</title>
-    <desc>Glasgow Warriors v Lions</desc>
+  <programme start="20261119080000 +0000" stop="20261119100000 +0000" channel="premier sports 2.uk">
+    <title>Abu Dhabi T10</title>
+    <desc>Emirates Eagles v Yas Lions</desc>
   </programme>
   <programme start="20261117004500 +0000" stop="20261117023000 +0000" channel="premier sports rugby.uk">
     <title>United Rugby Championship</title>
@@ -15729,5 +15713,85 @@
   <programme start="20261118023000 +0000" stop="20261118041500 +0000" channel="premier sports rugby.uk">
     <title>Champions Cup Classic Games</title>
     <desc>2016 Finall Racing v Saracens</desc>
+  </programme>
+  <programme start="20261118041500 +0000" stop="20261118060500 +0000" channel="premier sports rugby.uk">
+    <title>Champions Cup Classic Games</title>
+    <desc>2017 Semi Clermont v Leinster</desc>
+  </programme>
+  <programme start="20261118060500 +0000" stop="20261118075000 +0000" channel="premier sports rugby.uk">
+    <title>United Rugby Championship</title>
+    <desc>Ospreys v Cardiff</desc>
+  </programme>
+  <programme start="20261118075000 +0000" stop="20261118093500 +0000" channel="premier sports rugby.uk">
+    <title>United Rugby Championship</title>
+    <desc>Benetton v Edinburgh</desc>
+  </programme>
+  <programme start="20261118093500 +0000" stop="20261118103500 +0000" channel="premier sports rugby.uk">
+    <title>URC in 60</title>
+    <desc>Round 5</desc>
+  </programme>
+  <programme start="20261118103500 +0000" stop="20261118122000 +0000" channel="premier sports rugby.uk">
+    <title>United Rugby Championship</title>
+    <desc>Bulls v Scarlets</desc>
+  </programme>
+  <programme start="20261118122000 +0000" stop="20261118140500 +0000" channel="premier sports rugby.uk">
+    <title>Champions Cup Classic Games</title>
+    <desc>2021 Semi La Rochelle v Leinster</desc>
+  </programme>
+  <programme start="20261118140500 +0000" stop="20261118143500 +0000" channel="premier sports rugby.uk">
+    <title>Top 14 Highlights</title>
+    <desc>Round 9</desc>
+  </programme>
+  <programme start="20261118143500 +0000" stop="20261118162000 +0000" channel="premier sports rugby.uk">
+    <title>Top 14</title>
+    <desc>Toulouse v Clermont Auvergne</desc>
+  </programme>
+  <programme start="20261118162000 +0000" stop="20261118180500 +0000" channel="premier sports rugby.uk">
+    <title>Top 14</title>
+    <desc>Vannes v Bordeaux Begles</desc>
+  </programme>
+  <programme start="20261118180500 +0000" stop="20261118195000 +0000" channel="premier sports rugby.uk">
+    <title>Top 14</title>
+    <desc>La Rochelle v Bayonne</desc>
+  </programme>
+  <programme start="20261118195000 +0000" stop="20261118213500 +0000" channel="premier sports rugby.uk">
+    <title>Top 14</title>
+    <desc>Toulon v Stade Francais</desc>
+  </programme>
+  <programme start="20261118213500 +0000" stop="20261118223500 +0000" channel="premier sports rugby.uk">
+    <title>Champions Cup Highlights</title>
+    <desc>Round 1</desc>
+  </programme>
+  <programme start="20261118223500 +0000" stop="20261118121500 +0000" channel="premier sports rugby.uk">
+    <title>Champions Cup </title>
+    <desc>Munster v Racing 92</desc>
+  </programme>
+  <programme start="20261119001500 +0000" stop="20261119020500 +0000" channel="premier sports rugby.uk">
+    <title>Champions Cup </title>
+    <desc>Bath v Montpellier</desc>
+  </programme>
+  <programme start="20261119020500 +0000" stop="20261119035500 +0000" channel="premier sports rugby.uk">
+    <title>Champions Cup </title>
+    <desc>Connacht v Saracens</desc>
+  </programme>
+  <programme start="20261119035500 +0000" stop="20261119053500 +0000" channel="premier sports rugby.uk">
+    <title>Champions Cup Classic Games</title>
+    <desc>2018 Semi Leinster v Scarlets</desc>
+  </programme>
+  <programme start="20261119053500 +0000" stop="20261119072000 +0000" channel="premier sports rugby.uk">
+    <title>Champions Cup Classic Games</title>
+    <desc>2021 Semi La Rochelle v Leinster</desc>
+  </programme>
+  <programme start="20261119072000 +0000" stop="20261119075000 +0000" channel="premier sports rugby.uk">
+    <title>Top 14 Highlights</title>
+    <desc>Round 9</desc>
+  </programme>
+  <programme start="20261119075000 +0000" stop="20261119093500 +0000" channel="premier sports rugby.uk">
+    <title>Top 14</title>
+    <desc>Toulouse v Clermont Auvergne</desc>
+  </programme>
+  <programme start="20261119093500 +0000" stop="20261119112000 +0000" channel="premier sports rugby.uk">
+    <title>Top 14</title>
+    <desc>Vannes v Bordeaux Begles</desc>
   </programme>
 </tv>
